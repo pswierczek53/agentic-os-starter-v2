@@ -17,7 +17,7 @@ Open **Claude Code** or **Codex** and paste one of these prompts.
 ### First installation
 
 ```text
-Clone https://github.com/ctskool/agentic-os-starter-v2 into ~/agentic-os and set it up for me.
+Clone https://github.com/pswierczek53/agentic-os-starter-v2 into ~/agentic-os and set it up for me.
 ```
 
 Your agent walks you through missing software, choosing or creating a vault, optional voice and Jev, enabling the Obsidian plugin, and testing the setup. Allow installation and network access when prompted.
