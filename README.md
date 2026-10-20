@@ -27,7 +27,7 @@ It also helps you choose **up to ten dashboard buttons**: keep the starter workf
 ### Already use Agentic OS?
 
 ```text
-Use https://github.com/ctskool/agentic-os-starter-v2 to help upgrade the Agentic OS I already use. Find my installation and vault, explain what I can add, and preserve my customizations. Show me the plan before changing my setup.
+Use https://github.com/pswierczek53/agentic-os-starter-v2 to help upgrade the Agentic OS I already use. Find my installation and vault, explain what I can add, and preserve my customizations. Show me the plan before changing my setup.
 ```
 
 You do not need to know your installation's path. The agent helps find it, recommends compatible improvements, and asks before interrupting your running system. Customized setups get an integration plan. [How upgrades work →](docs/UPGRADING.md)
